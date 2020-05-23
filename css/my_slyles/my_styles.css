@@ -1,0 +1,15 @@
+.div_picture {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.linear_funnel {
+  background: #ffffff;
+  padding: 30px;
+}
+
+.img_donald_hebb {
+  width: 35%;
+}
+/*# sourceMappingURL=my_styles.css.map */

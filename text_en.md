@@ -1,4 +1,4 @@
-##Slide 1##
+##Slide 0##
 
 
 Neural network - an attempt using mathematical models to reproduce the work of the human brain to create machines with artificial intelligence.
@@ -8,7 +8,7 @@ Neural network - an attempt using mathematical models to reproduce the work of t
   
 
 
-##Slaid 2##
+##Slaid 1##
 
 
 A neural network is a sequence of connected neurons.
@@ -24,7 +24,7 @@ A simple neural network can consist of three levels and transmit data only forwa
   
 
 
-##Slide 3##
+##Slide 2##
 
 
 The term “neural network” appeared in the middle of the 20th century. The first works in which the main results were obtained in this direction were done by McCallock and Pitts. In 1943, they developed a computer model of a neural network based on mathematical algorithms and the theory of brain activity. They hypothesized that neurons can be simplistically viewed as devices that operate with binary numbers, and called this model “threshold logic”.
@@ -40,7 +40,7 @@ This model laid the foundation for two different neural network research approac
   
 
 
-##Slide 4##
+##Slide 3##
 
 
 In 1949, Canadian physiologist and psychologist Hebb expressed ideas about the nature of the connection of brain neurons and their interaction.
@@ -58,7 +58,7 @@ In other words, according to Hebb, as a result of frequent stimulation of the ne
   
 
 
-##Slide 5##
+##Slide 4##
 
 
 Suddenly breaking off in 1954, Alan Turing's life did not allow him to finish his studies at the University of Manchester. He just started developing models of neural circuits, with which you can study the so-called "smart" machines, taking into account the features of the human brain. In the year of Turing's death, two researchers from the Massachusetts Institute of Technology, Belmont Farley (1920-2008) and Wesley Clark (b. 1927), successfully simulated a network of 128 neurons on a computer that could recognize simple models after the training phase. Scientists noted that with a decrease in the number of neurons by 10%, the network did not lose recognition ability.
@@ -72,7 +72,7 @@ Of course, the model was elementary, it consisted of neurons randomly connected 
   
 
 
-##Slide 6##
+##Slide 5##
 
 
 In the summer of 1956, a two-month scientific seminar on artificial intelligence was held at Dartmouth College.
@@ -89,7 +89,7 @@ The Dartmouth seminar did not become the site of any major new discoveries, but 
   
 
 
-##Slide 7##
+##Slide 6##
 
 
 In 1957, Rosenblatt developed a mathematical and computer model of brain information perception based on a two-layer learning neural network. In training, this network used arithmetic operations of addition and subtraction. He called this model a “perceptron”.
@@ -105,7 +105,7 @@ In 1958, he proposed a model of an electronic device that was supposed to imitat
   
 
 
-##Slide 8##
+##Slide 7##
 
 
 Winter Artificial Intelligence
@@ -119,7 +119,7 @@ Interest in the study of neural networks faded after the publication of machine 
   
 
 
-##Slide 9##
+##Slide 8##
 
 
 Research on neural networks slowed down to the time when computers reached great computing power. One of the important steps that stimulated further research was the development in 1974 by A. I. Galushkin, as well as independently and simultaneously by Paul J. Verbos, of the error back propagation method, which made it possible to effectively solve the problem of training multilayer networks and solve the problem of “addition by module 2 ".
@@ -135,7 +135,7 @@ Synaptic weights are adjusted to maximize the network output to the desired.
   
 
 
-##Slide 10##
+##Slide 9##
 
 
 In 1975, Fukushima developed the cognitron, which became one of the first multilayer neural networks.
@@ -152,7 +152,7 @@ The actual network structure and methods used in the cognitron to adjust the rel
   
 
 
-##Slide 11##
+##Slide 10##
 
 It was possible to achieve two-way information transfer between neurons only in the Hopfield network (1982), and the specialization of these nodes for specific purposes was introduced in the first hybrid networks.
 
@@ -167,7 +167,7 @@ Thus, this network is a recursive network, and has feedbacks. Network functions 
   
 
 
-##Slide 12##
+##Slide 11##
 
 
 Kohonen presents models of a network that learns without a teacher (Kohonen neural network), solves the problems of clustering, data visualization (Kohonen self-organizing map) and other tasks of preliminary data analysis.
@@ -192,7 +192,7 @@ As in a normal neural network, input neurons do not participate in the process o
   
 
 
-##Slide 13##
+##Slide 12##
 
 
 The parallel distributed data processing algorithm in the mid-1980s became popular under the name of connectivism. In 1986, in the work of Rummelhart and McClelland, connectivity was used for computer simulation of neural processes.
@@ -216,7 +216,7 @@ The basic principles of connectivism:
   
 
 
-##Slide 14##
+##Slide 13##
 
 
 Despite the great enthusiasm caused by the scientific community for the development of the method of back propagation of error, this also generated much debate about whether such training can actually be implemented in the brain. This was partly due to the fact that the signal return path mechanism was not obvious at that time, since there was no clear source of training and target signals. However, in 2006, several uncontrolled training procedures for neural networks with one or more layers were proposed using the so-called deep learning algorithms. These algorithms can be used to study intermediate representations, both with and without an output signal, in order to understand the main features of the distribution of sensory signals arriving at each layer of a neural network.
