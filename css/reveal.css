@@ -402,10 +402,10 @@ html.reveal-full-page {
   color: currentColor;
   -webkit-transform: scale(0.9999);
           transform: scale(0.9999);
-  -webkit-transition: color 0.2s ease, opacity 0.2s ease, -webkit-transform 0.2s ease;
-  transition: color 0.2s ease, opacity 0.2s ease, -webkit-transform 0.2s ease;
-  transition: color 0.2s ease, opacity 0.2s ease, transform 0.2s ease;
-  transition: color 0.2s ease, opacity 0.2s ease, transform 0.2s ease, -webkit-transform 0.2s ease;
+  -webkit-transition: color 0.2s ease, opacity 0.2s ease, -webkit-transform 0.2s ease;
+  transition: color 0.2s ease, opacity 0.2s ease, -webkit-transform 0.2s ease;
+  transition: color 0.2s ease, opacity 0.2s ease, transform 0.2s ease;
+  transition: color 0.2s ease, opacity 0.2s ease, transform 0.2s ease, -webkit-transform 0.2s ease;
   z-index: 2;
   pointer-events: auto;
   font-size: inherit;

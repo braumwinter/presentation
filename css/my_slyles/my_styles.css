@@ -2,6 +2,12 @@
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: start;
+      -ms-flex-align: start;
+          align-items: flex-start;
 }
 
 .linear_funnel {
@@ -11,5 +17,26 @@
 
 .img_donald_hebb {
   width: 35%;
+}
+
+.four div {
+  margin: auto 20px;
+}
+
+.four div img {
+  width: 200px;
+  height: 300px;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+.rosenblatt {
+  height: 450px;
+}
+
+.two img {
+  width: 430px;
+  height: 250px;
+  margin: auto 20px;
 }
 /*# sourceMappingURL=my_styles.css.map */
